@@ -1,0 +1,13 @@
+{
+  "name": "jsray1.0",
+  "version": "1.0.0",
+  "description": "jsray1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "W",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
